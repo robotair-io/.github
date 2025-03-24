@@ -1,13 +1,7 @@
-## Hi ROS community 👋
+## Hi 👋
 
-Robotair is a platform for packaging your ROS application, Testing, Over-The-Air software updates, and runtime monitoring to simplify the operations of ROS robot
-<!--
+Robotair is a powerful Deployment and Monitoring Infrastructure specifically designed for robotics, streamlining the process of shipping robot software. It enhances both the speed and reliability of deployments, ensuring that new updates and features reach robots in the field efficiently and with minimal risk of errors.
 
-**Here are some ideas to get you started:**
+By integrating Robotair into your workflow, you can focus on building innovative solutions while maintaining high-quality and stable deployments. Robotair simplifies complex processes, allowing you to concentrate on innovation while accelerating delivery like never before.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
