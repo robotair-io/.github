@@ -1,4 +1,4 @@
-# 🚀 Deploy Faster. Innovate More.
+# Deploy Faster. Innovate More.
 
 **Robotair** automates your robotics CI/CD pipeline, so you can focus on building the future.
 
