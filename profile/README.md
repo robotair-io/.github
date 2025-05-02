@@ -6,15 +6,15 @@
 
 ---
 
-## ⚡ Benefits
+## ✨ Benefits
 
-### ✅ Speed
+### 🚀 Speed  
 Deploy in minutes, not hours.
 
-### ✅ Reliability
+### 🔒 Reliability  
 Automated testing for flawless updates.
 
-### ✅ Simplicity
+### 🧠 Simplicity  
 Integrates seamlessly with your ROS setup.
 
 ---
