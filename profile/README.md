@@ -1,6 +1,6 @@
 # Robotair: Continuous Deployment Tooling for Robotics Teams
 
-**Build, Test, and Deploy Robot Applications at Scale**
+**Build, Test, and Distribute Robot Software at Scale**
 
 Robotair empowers robotics teams to ship code to production with confidence whether you're running a single robot in the lab or a fleet of a thousand in the field.
 
